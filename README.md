@@ -1,6 +1,6 @@
 # happy-interview
 
-你好，我是`SGG`， 公众号「前端黑白灰」作者。 
+你好，我是`SGG`， 公众号「前端黑白灰」作者。
 
 本仓库旨在前端技术方面做一些积累，同时也希望能给更多前端同学带来方便。
 
@@ -10,39 +10,39 @@
 
 ### Vue2.0
 
-1. [【Vue2.0源码系列】：响应式原理](https://github.com/szjxxy/happy-interview/issues/11)
-2. [【Vue2.0源码系列】：虚拟DOM](https://github.com/szjxxy/happy-interview/issues/12)
-3. [【Vue2.0源码系列】：DOM-Diff](https://github.com/szjxxy/happy-interview/issues/8)
-4. 【Vue2.0源码系列】：模板编译
-5. [【Vue2.0源码系列】：computed vs methods](https://github.com/szjxxy/happy-interview/issues/9)
-6. [【Vue开发实践】：讲真，Vue图片懒加载怎么做?](https://github.com/szjxxy/happy-interview/issues/15)
-7. [【Vue开发实践】： 事件总线——EventBus —— 发布订阅模式](https://github.com/szjxxy/happy-interview/issues/13)
+1. [【Vue2.0 源码系列】：响应式原理](https://github.com/sggmico/happy-interview/issues/11)
+2. [【Vue2.0 源码系列】：虚拟 DOM](https://github.com/sggmico/happy-interview/issues/12)
+3. [【Vue2.0 源码系列】：DOM-Diff](https://github.com/sggmico/happy-interview/issues/8)
+4. 【Vue2.0 源码系列】：模板编译
+5. [【Vue2.0 源码系列】：computed vs methods](https://github.com/sggmico/happy-interview/issues/9)
+6. [【Vue 开发实践】：讲真，Vue 图片懒加载怎么做?](https://github.com/sggmico/happy-interview/issues/15)
+7. [【Vue 开发实践】： 事件总线——EventBus —— 发布订阅模式](https://github.com/sggmico/happy-interview/issues/13)
 
 ### Vue3.0
 
-1. 【Vue3.0源码系列】：响应式原理
+1. 【Vue3.0 源码系列】：响应式原理
 
-[更多](https://github.com/szjxxy/happy-interview/blob/master/vue/index.md) 🚀
+[更多](https://github.com/sggmico/happy-interview/blob/master/vue/index.md) 🚀
 
 ## 手写实现
 
-1. [【手写】：节流(throttle)、防抖(debounce)](https://github.com/szjxxy/happy-interview/issues/5)
-2. [【手写】：new 操作符实现](https://github.com/szjxxy/happy-interview/issues/6)
-3. [【手写】：深拷贝、浅拷贝](https://github.com/szjxxy/happy-interview/issues/7)
-4. [【手写】：bind实现](https://github.com/szjxxy/happy-interview/issues/4)
-5. [【手写】：async/await实现](https://github.com/szjxxy/happy-interview/issues/10)
-6. 【手写】：setTimeout实现
-7. [【手写】：一个发布-订阅模式](https://github.com/szjxxy/happy-interview/issues/13)
-8. 手写vue的双向数据绑定
-9. 手写Promise实现
-10. 手写call/apply实现
-11. 手写parseInt实现
+1. [【手写】：节流(throttle)、防抖(debounce)](https://github.com/sggmico/happy-interview/issues/5)
+2. [【手写】：new 操作符实现](https://github.com/sggmico/happy-interview/issues/6)
+3. [【手写】：深拷贝、浅拷贝](https://github.com/sggmico/happy-interview/issues/7)
+4. [【手写】：bind 实现](https://github.com/sggmico/happy-interview/issues/4)
+5. [【手写】：async/await 实现](https://github.com/sggmico/happy-interview/issues/10)
+6. 【手写】：setTimeout 实现
+7. [【手写】：一个发布-订阅模式](https://github.com/sggmico/happy-interview/issues/13)
+8. 手写 vue 的双向数据绑定
+9. 手写 Promise 实现
+10. 手写 call/apply 实现
+11. 手写 parseInt 实现
 12. 数组去重、扁平化函数
-13. 实现一个add方法
+13. 实现一个 add 方法
 14. [【手写】：indexOf() 实现](https://github.com/sggmico/happy-interview/issues/16)
-15. 模拟实现一个localStroage
+15. 模拟实现一个 localStroage
 
-[更多](https://github.com/szjxxy/happy-interview/blob/master/chapter/code.md) 🚀
+[更多](https://github.com/sggmico/happy-interview/blob/master/chapter/code.md) 🚀
 
 ## 浏览器
 
@@ -51,8 +51,6 @@
 ## Node.js
 
 ### koa.js
-
-
 
 ## 工程化
 
@@ -64,14 +62,14 @@
 
 ### http/https
 
-### tcp与udp
+### tcp 与 udp
 
 ## 系统方案
 
-1. web性能优化
+1. web 性能优化
 2. 异常监控
-3. web安全防御
-4. webpack构建与优化
+3. web 安全防御
+4. webpack 构建与优化
 5. 自动化测试
 6. 浏览器跨域
 
@@ -81,13 +79,14 @@
 
 ### CSS
 
-1. [【CSS专题】： BFC及其应用](https://github.com/szjxxy/happy-interview/issues/14)
-2. 【CSS专题】：让一个Div垂直水平居中
+1. [【CSS 专题】： BFC 及其应用](https://github.com/sggmico/happy-interview/issues/14)
+2. 【CSS 专题】：让一个 Div 垂直水平居中
 
 ### HTML
 
 ## 算法
-已迁移至  [「 fe-happy-algo 」](https://github.com/szjxxy/fe-happy-algo) 🚀。
+
+已迁移至 [「 happy-algo 」](https://github.com/sggmico/happy-algo) 🚀。
 
 ## 交流
 
@@ -96,4 +95,3 @@
 微信关注 「 前端黑白灰 」公众号，发现更多有趣好玩的前端知识和实战。
 
 最后，关于本仓库如有任何意见或建议，欢迎留言讨论。
-
