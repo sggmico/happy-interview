@@ -1,4 +1,4 @@
-# fe-happy-interview
+# happy-interview
 
 你好，我是`SGG`， 公众号「前端黑白灰」作者。 
 
@@ -10,39 +10,39 @@
 
 ### Vue2.0
 
-1. [【Vue2.0源码系列】：响应式原理](https://github.com/szjxxy/fe-happy-interview/issues/11)
-2. [【Vue2.0源码系列】：虚拟DOM](https://github.com/szjxxy/fe-happy-interview/issues/12)
-3. [【Vue2.0源码系列】：DOM-Diff](https://github.com/szjxxy/fe-happy-interview/issues/8)
+1. [【Vue2.0源码系列】：响应式原理](https://github.com/szjxxy/happy-interview/issues/11)
+2. [【Vue2.0源码系列】：虚拟DOM](https://github.com/szjxxy/happy-interview/issues/12)
+3. [【Vue2.0源码系列】：DOM-Diff](https://github.com/szjxxy/happy-interview/issues/8)
 4. 【Vue2.0源码系列】：模板编译
-5. [【Vue2.0源码系列】：computed vs methods](https://github.com/szjxxy/fe-happy-interview/issues/9)
-6. [【Vue开发实践】：讲真，Vue图片懒加载怎么做?](https://github.com/szjxxy/fe-happy-interview/issues/15)
-7. [【Vue开发实践】： 事件总线——EventBus —— 发布订阅模式](https://github.com/szjxxy/fe-happy-interview/issues/13)
+5. [【Vue2.0源码系列】：computed vs methods](https://github.com/szjxxy/happy-interview/issues/9)
+6. [【Vue开发实践】：讲真，Vue图片懒加载怎么做?](https://github.com/szjxxy/happy-interview/issues/15)
+7. [【Vue开发实践】： 事件总线——EventBus —— 发布订阅模式](https://github.com/szjxxy/happy-interview/issues/13)
 
 ### Vue3.0
 
 1. 【Vue3.0源码系列】：响应式原理
 
-[更多](https://github.com/szjxxy/fe-happy-interview/blob/master/vue/index.md) 🚀
+[更多](https://github.com/szjxxy/happy-interview/blob/master/vue/index.md) 🚀
 
 ## 手写实现
 
-1. [【手写】：节流(throttle)、防抖(debounce)](https://github.com/szjxxy/fe-happy-interview/issues/5)
-2. [【手写】：new 操作符实现](https://github.com/szjxxy/fe-happy-interview/issues/6)
-3. [【手写】：深拷贝、浅拷贝](https://github.com/szjxxy/fe-happy-interview/issues/7)
-4. [【手写】：bind实现](https://github.com/szjxxy/fe-happy-interview/issues/4)
-5. [【手写】：async/await实现](https://github.com/szjxxy/fe-happy-interview/issues/10)
+1. [【手写】：节流(throttle)、防抖(debounce)](https://github.com/szjxxy/happy-interview/issues/5)
+2. [【手写】：new 操作符实现](https://github.com/szjxxy/happy-interview/issues/6)
+3. [【手写】：深拷贝、浅拷贝](https://github.com/szjxxy/happy-interview/issues/7)
+4. [【手写】：bind实现](https://github.com/szjxxy/happy-interview/issues/4)
+5. [【手写】：async/await实现](https://github.com/szjxxy/happy-interview/issues/10)
 6. 【手写】：setTimeout实现
-7. [【手写】：一个发布-订阅模式](https://github.com/szjxxy/fe-happy-interview/issues/13)
+7. [【手写】：一个发布-订阅模式](https://github.com/szjxxy/happy-interview/issues/13)
 8. 手写vue的双向数据绑定
 9. 手写Promise实现
 10. 手写call/apply实现
 11. 手写parseInt实现
 12. 数组去重、扁平化函数
 13. 实现一个add方法
-14. [【手写】：indexOf() 实现](https://github.com/sggmico/fe-happy-interview/issues/16)
+14. [【手写】：indexOf() 实现](https://github.com/sggmico/happy-interview/issues/16)
 15. 模拟实现一个localStroage
 
-[更多](https://github.com/szjxxy/fe-happy-interview/blob/master/chapter/code.md) 🚀
+[更多](https://github.com/szjxxy/happy-interview/blob/master/chapter/code.md) 🚀
 
 ## 浏览器
 
@@ -81,7 +81,7 @@
 
 ### CSS
 
-1. [【CSS专题】： BFC及其应用](https://github.com/szjxxy/fe-happy-interview/issues/14)
+1. [【CSS专题】： BFC及其应用](https://github.com/szjxxy/happy-interview/issues/14)
 2. 【CSS专题】：让一个Div垂直水平居中
 
 ### HTML
